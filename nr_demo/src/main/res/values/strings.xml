@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NavigationRoutes</string>
+    <string name="text_navigate_next_window">Go to new window</string>
+    <string name="text_hint_hello">Input some text</string>
+    <string name="text_bundle_hello">hello_world</string>
+    <string name="title_activity_hello">HelloActivity</string>
+    <string name="text_hello_world"> Hello %1$s !!!</string>
+    <string name="text_toast_hello_empty">Must input greeting text</string>
+</resources>

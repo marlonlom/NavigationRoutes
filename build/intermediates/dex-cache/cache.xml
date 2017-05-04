@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.android\build-cache\0c9744d60385f31d97ad082af815e4ab4477699a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\androidTest\debug\classes_cc999a8a3391b6bc2e118eb35715b63b05cc9633.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.android\build-cache\dcb6bf8b0f06c99fd363856961abf4db151c2eb5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\debug\classes_6ac26946f97e61dda238d228b2198969ec6abf7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.android\build-cache\23b9ecec3dc2014bc89cbd5ca238370196b2481e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\androidTest\debug\classes_dbd7a3e52b1d17f9ff1742a4cf11ad604c718073.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.android\build-cache\7cf5f1f77512abb1e96674d4e1dd1bcd435beb5c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\debug\classes_c3e289cece300855ecf1b55637299ce10a35d608.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.android\build-cache\43bee5e3f7ab073c26a4fd73a3bdc1ae1be782e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\androidTest\debug\classes_530cc63c08b94cf0fc4061e2bf654e536e47b9de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\androidTest\debug\javax.annotation-api-1.2_a1dd4f17a4fc550960da18408b24687a31d0ca54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\androidTest\debug\hamcrest-integration-1.3_036be3962a2b4381a4a77161957373c22b0dc863.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.android\build-cache\30c943721d70648fb945d1f0f1051d02e8567b45\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\androidTest\debug\classes_16e5bccd46eabbc9a838390cea4f088821e17e51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="adedaeecd89146bddf8dc4f0764b5c01e0df6c07">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\debug\classes_8d0fb11741e17f37c521ef408c3dccf810f3553b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\androidTest\debug\hamcrest-library-1.3_f5e7d1964dc858b5ca502fdcd6175d333c6000ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.android\build-cache\1117b8dc289b519963e87e8df6b0520ca907f3e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\debug\classes_1bda82b154a8bded63773990b9888bbd08113a33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.android\build-cache\52c931a3485abf29eef2f934001a24057f834e08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efc9e293447db1929eb3853a3f83e8f46a957436">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\androidTest\debug\classes_069bf6e576aea35094aec7bb4d44908a625e0e43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.android\build-cache\ae7bcbcdc8907a3da052dbdd08397645a8b4ef77\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\debug\classes_838a4fc8a4b059d90419466e44d71b99c4059f96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.android\build-cache\dee6ba63461b641af0d0cf0b1be6754a6819cd70\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\debug\classes_1cce439386814553823a8638a9753c3762c0a70f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.android\build-cache\ade6ee228b26a45c9567e00a080b527ab70511d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\debug\classes_b78d9187f358f6a17243f7284d5a660cc384e831.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\androidTest\debug\javax.inject-1_abfeb1192f6c8843fab68236115abb4ab3dbecf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.android\build-cache\5a00aacbba8c0186f339a724b40e409377cba09e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\debug\classes_3b14d02e653191a6f1fb39c5b60364fc7d275b5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.android\build-cache\6dee22ec45dee5bb7338e13b5d5a97f79eb06f8d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\debug\classes_55ed2682412f537bf36429fb44393eb25f000e79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_4ef9073b6dfc5206b93a90524228da524eb4d5c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.android\build-cache\d090051239371e739388dc808da47dcba153864a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\androidTest\debug\classes_69b8d3312dbc74fddf38bc8fec4d0d5929317cab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.android\build-cache\c251e77cbbf3fbd4a035c9949b273502c7a8853a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\debug\classes_213ed5c8c1044cfbbeaecd9a0913fa0d94ac13a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\androidTest\debug\junit-4.12_129aa6b912781ad286032ad898143c00ba1d2b6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\androidTest\debug\jsr305-2.0.1_d951a25ac01400c0a8ebc3860eba0cf95a47fdc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.android\build-cache\473f5635cac6f863198d6074a339123b79b2de56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\debug\classes_cc778aee2b6d10f5d4a2a5360cd33c6658e78354.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_8597e022bc0c35e13bab0e4d12cb9a6d20377f15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.android\build-cache\d53f0415a7ed14d6a2be8f27f1f5b5d2648003b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\debug\classes_0bec113b3c19669e872ac1aa6a92682d22b3a8f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.android\build-cache\9846d81e7e83920f0bbe9f17895e4085fefd10a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\debug\classes_5fd5cd2a6e7ab5e645e6716ff93a722a4de2127a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\androidTest\debug\hamcrest-core-1.3_290cb5a87d8ef717e1f7f68428abf9ba82d3ce2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\androidTest\debug\javawriter-2.1.1_ea1332da484479803c88e8d6803e75cf95a63219.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mjlopezm\.android\build-cache\a2a2d3877307a8ef63f78fdac51884c3457ac704\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\_intergrupo\mjlopezm\workspace\bitbucket\libs\NavigationRoutes\nr_demo\build\intermediates\pre-dexed\debug\classes_ffb6de57f6a7e7fc917e08f8adb218ebdc4faa52.jar" />
+    </item>
+
+</items>
